@@ -1,0 +1,22 @@
+# your token (notion v2 token in cookies)
+token:
+
+# global option
+#
+# title: (default)true | false
+# content: true | (default)false
+# props:
+#   - prop 1
+#   - prop 2
+# created: ...
+# edited: ...
+
+databases:
+#   - url:
+#     title: (default)true | false
+#     content: true | (default)false
+#     props:
+#       - prop 1
+#       - prop 2
+#     created: ...
+#     edited: ...
