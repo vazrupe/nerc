@@ -1,2 +1,2 @@
 notion==0.0.23
-PyYAML==3.13
+PyYAML==5.1.1
